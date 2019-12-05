@@ -1,0 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/sh
+cd ~/Twrp-Tool
+bash Twrp.sh
+if [ -e Twrp ];then
+rm -f Twrp
+fi
