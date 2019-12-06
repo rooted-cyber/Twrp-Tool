@@ -632,7 +632,7 @@ li="printf"
 e="\n"
 image="figlet"
 rang="toilet -f term -F gay"
-if [ -f /xbin/su ];then
+if [ -f /system/bin/su ];then
 echo
 else
 printf "$lal$e$e Your phone is not root$e$e"
