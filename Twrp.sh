@@ -636,7 +636,7 @@ if [ -f /system/bin/su ];then
 echo
 else
 printf "$lal$e$e Your phone is not root$e$e"
-printf "$lal Prese root your phone the try this !!!$e$e"
+printf "$lal Please root your phone and try this !!!$e$e"
 $maro 2
 fi
 
